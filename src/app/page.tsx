@@ -11,6 +11,9 @@ export default function Home() {
       <Link href="/job-board/dashboard" className="mt-4 text-blue-500 hover:underline">
         Job Board Dashboard with Claude sonnet 4
       </Link>
+      <Link href="/job-board/dashboard2" className="mt-4 text-blue-500 hover:underline">
+        Job Board Dashboard 2 with Stitch and Claude sonnet 4
+      </Link>
     </main>
   );
 }
